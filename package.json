@@ -2,12 +2,13 @@
   "name": "clear-console-log",
   "displayName": "clear-console-log",
   "description": "clear console.xxx in your code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "xiaohuanggua",
   "repository": {
     "type": "git",
     "url": "https://github.com/alyzhao/clear-console-log"
   },
+  "icon": "icon.png",
   "bugs": "https://github.com/alyzhao/clear-console-log/issues",
   "engines": {
     "vscode": "^1.54.0"
